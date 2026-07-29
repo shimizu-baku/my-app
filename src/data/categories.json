@@ -1,0 +1,17 @@
+[
+  {
+    "id": "general",
+    "name": "一般常識",
+    "description": "日常生活や社会に関する幅広い知識問題"
+  },
+  {
+    "id": "science",
+    "name": "科学",
+    "description": "自然科学や身近な科学現象に関する問題"
+  },
+  {
+    "id": "history",
+    "name": "歴史",
+    "description": "日本史・世界史に関する問題"
+  }
+]
